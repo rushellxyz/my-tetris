@@ -1,0 +1,9 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Generated exports and local signing secrets
+/builds/
+*.keystore
+*.jks
+/export_credentials.cfg

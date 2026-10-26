@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dm2lh3kodt6h5"
+path="res://.godot/imported/PM_SD_UI_MAGIC_CONFIRM_6.wav-e5fc069c6ff7a4620800bd1b40d8ce88.sample"
+
+[deps]
+
+source_file="res://UI Sci-Fi SFXs Confirm Pack Vol 1/PM_SD_UI_MAGIC_CONFIRM_6.wav"
+dest_files=["res://.godot/imported/PM_SD_UI_MAGIC_CONFIRM_6.wav-e5fc069c6ff7a4620800bd1b40d8ce88.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

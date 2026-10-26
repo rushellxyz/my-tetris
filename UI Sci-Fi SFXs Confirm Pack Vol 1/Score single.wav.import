@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dvdmsv5678d7r"
+path="res://.godot/imported/Score single.wav-182e952589200ac4bc2430a31d2ac281.sample"
+
+[deps]
+
+source_file="res://UI Sci-Fi SFXs Confirm Pack Vol 1/Score single.wav"
+dest_files=["res://.godot/imported/Score single.wav-182e952589200ac4bc2430a31d2ac281.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
